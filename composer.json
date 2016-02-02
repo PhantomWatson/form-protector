@@ -4,9 +4,6 @@
     "description": "Protects users from navigating away from forms before submitting them",
     "homepage": "https://github.com/PhantomWatson/form-protector",
     "license": "MIT",
-    "require": {
-        "jquery/jquery": "*"
-    },
     "support": {
         "issues": "https://github.com/PhantomWatson/form-protector/issues"
     }
